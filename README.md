@@ -1,6 +1,6 @@
 
  # Gender-Recognizaton-Using-Voice
- ## USAGE:
+ ### USAGE:
  
   Run `python clf_comparison.py` to compare different classifiers for the problem.
 
